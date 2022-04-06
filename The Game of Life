@@ -1,4 +1,5 @@
 # its pretty bad XD first python thing!
+# pyfiglet needed!
 from pyfiglet import Figlet
 from random import randint
 import time
@@ -425,9 +426,9 @@ elif stats['Dropout'] == True:
 time.sleep(1)
 
 if stats['RE'] == True:
-    print('Since your major is Real Estate')
+    print('Since your major is Human Physiology')
     time.sleep(1)
-    print('You settled with a job at a company')
+    print('You settled with a job at a hospital')
     time.sleep(1)
     print('That pays 60k a year')
 elif stats['CS'] == True:
